@@ -9,7 +9,7 @@ Le fichier ``main.py`` contient :
 
     $ python -m pip install plotly
 
-- une fonction secondaire ``syracuse_l()``
+- une fonction secondaire ``syracuse_l()`` 
   
   - qui prend en argument un entier ``n`` ;
   - et retourne la liste des valeurs de la suite.
